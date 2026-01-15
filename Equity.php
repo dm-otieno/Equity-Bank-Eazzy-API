@@ -1,8 +1,6 @@
 <?php
 
 /**
-*  Developer:
- * Daniel Mbeyah (danmbeyah@gmail.com)
  * Sep 2017
  */
  
