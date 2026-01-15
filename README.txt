@@ -1,7 +1,5 @@
 EQUITY BANK EAZZY API INTEGRATION
 
-Developer: Daniel Mbeyah ( danmbeyah@gmail.com )
-
 This is a simple core PHP example on Eazzy API integration. If you are using a PHP framework you will need to adopt the code to your framework.
 
 Use Case:
@@ -17,3 +15,4 @@ Instructions:
    grant_type: password
    (For production, contact Equity Bank for merchant username, password and grant type)
 4. Obtain your key and secret from your app on https://developers.equitybankgroup.com/
+
