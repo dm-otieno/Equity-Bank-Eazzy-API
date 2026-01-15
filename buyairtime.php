@@ -1,8 +1,6 @@
 <?php
 
 /**
-*  Developer:
- * Daniel Mbeyah (danmbeyah@gmail.com)
  * Sep 2017
  */
  
@@ -39,5 +37,6 @@ try{
 }catch(Exception $e){
 	echo "Error in connecting to Eazzy API";
 }
+
 
 ?>
